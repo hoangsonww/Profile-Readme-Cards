@@ -1,31 +1,67 @@
 # GitHub Profile Stats for hoangsonww
 
-![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)
+## Must-Have Stats
 
-![Hoang Son's GitHub Contributions](https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact)
+These are the must-have stats for your GitHub profile. Feel free to select one or more of them and add them to your profile. It is recommended to have a maximum of one or two of these stats in your profile.
 
-![Hoang Son's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoangsonww&show_icons=true&theme=radical)
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Hoang Son's GitHub Streak" />
+</div>
 
-![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false)
+<div align="center">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Contributions" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hoangsonww&show_icons=true&theme=radical" alt="Hoang Son's GitHub Stats" />
+</div>
+
+<div align="center">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hoangsonww?cardType=level&theme=radical&preferLogin=false" alt="My Awesome Stats" />
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Top Langs" />
+</div>
+
+---
 
 ## Additional Stats
 
+These are the additional stats for your GitHub profile. You can select one or more of them and add them to your profile. It is recommended to have a maximum of three of these stats in your profile.
+
 ### Detailed Languages
-![Hoang Son's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&langs_count=20&theme=radical)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&langs_count=20&theme=radical" alt="Hoang Son's Languages" />
+</div>
 
 ### GitHub Trophies
-![Hoang Son's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&no-frame=true&margin-w=4)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
+</div>
 
 ### Repositories Contribution Graph
-![Hoang Son's Repos Contributions](https://ghchart.rshah.org/hoangsonww)
+<div align="center">
+    <img src="https://ghchart.rshah.org/hoangsonww" alt="Hoang Son's Repos Contributions" />
+</div>
 
 ### GitHub Contributions Graph
-![Hoang Son's GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangsonww&theme=radical)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangsonww&theme=radical" alt="Hoang Son's GitHub Achievements" />
+</div>
 
 ### Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww)
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangsonww.hoangsonww" alt="Visitor Count" />
+</div>
 
 ### Sponsor Me
-[![Sponsor me](https://img.shields.io/badge/Sponsor-%40hoangsonww-blue?style=flat&logo=github)](https://github.com/sponsors/hoangsonww)
+<div align="center">
+    <a href="https://github.com/sponsors/hoangsonww">
+        <img src="https://img.shields.io/badge/Sponsor-%40hoangsonww-blue?style=flat&logo=github" alt="Sponsor me" />
+    </a>
+</div>
+
+---
+
+Created with ❤️ by [Son Nguyen Hoang](https://github.com/hoangsonww) in 2023.
